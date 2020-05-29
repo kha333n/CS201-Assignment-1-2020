@@ -20,7 +20,7 @@ int main()
 	int input;
 
 	cin >> input;
-	int initialScale, Increment, updateScale, taxDeducted, netPay, textDeduct;
+	int initialScale, Increment, updateScale, taxDeducted, netPay, textDeduct[[maybe_unused]];
 
 	/*
 	if (input == 1)
